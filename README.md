@@ -1,3 +1,5 @@
+https://blog.usejournal.com/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f
+
 # Flutter Web App Demo
 
 [![Codemagic build status](https://api.codemagic.io/apps/5cdb3c1ed85907001941f21e/5cdb3c1ed85907001941f21d/status_badge.svg)](https://codemagic.io/apps/5cdb3c1ed85907001941f21e/5cdb3c1ed85907001941f21d/latest_build)
